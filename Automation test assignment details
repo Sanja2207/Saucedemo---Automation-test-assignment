@@ -1,0 +1,16 @@
+Please, follow these test steps:
+
+Go to https://www.saucedemo.com/
+Log in to the site
+Add an item from the list to the cart
+Verify that the cart badge is updated correctly
+Open another item’s details page
+Add the item to the cart
+Open the cart
+Verify that the correct items are present (2 different items)
+Remove the first item from the cart
+Verify that the correct item is present (1 item)
+Continue to the Checkout page
+Complete the checkout form
+Complete the order
+Verify that the order is completed successfully with the displayed message
